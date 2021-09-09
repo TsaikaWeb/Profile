@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sempiternus666
+- 👋 Hi, I’m Sempiternus
 - 👀 I’m interested in Front End Developing
 - 🌱 I’m currently learning Web Programming
 
